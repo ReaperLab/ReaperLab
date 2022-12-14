@@ -8,7 +8,7 @@
   <br>
   <p>Stats</p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ReaperLab&show_icons=true&theme=github_dark&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ReaperLab&show_icons=true&theme=github_darkt" />
   </p>
   <p>Skills</p>
   <a href="https://skillicons.dev">
