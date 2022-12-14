@@ -6,6 +6,10 @@
   </a>
   <h1>ReaperLab</h1>
   <br>
+  <p>Stats</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RealPacket&show_icons=true&theme=dracula" />
+  </p>
   <p>Skills</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,lua,js,html,css" />
