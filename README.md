@@ -2,9 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/ReaperLab">
-    <img src="https://avatars.githubusercontent.com/u/101026822?v=4" alt="Logo" width="80" height="80">
+    <img src="https://avatars.githubusercontent.com/u/101026822?v=4" alt="Logo" width="80" height="80" border-radius="50">
   </a>
-  <p>ReaperLab</p>
+  <h1>ReaperLab</h1>
   <br>
   <p>Skills</p>
   <a href="https://skillicons.dev">
