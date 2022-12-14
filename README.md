@@ -7,7 +7,7 @@
   <h1>ReaperLab</h1>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ReaperLab&show_icons=true&theme=material-github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ReaperLab&show_icons=true&theme=material-github_dark#gh-dark-mode-only" />
   </p>
   <br>
   <a href="https://git.io/streak-stats">
