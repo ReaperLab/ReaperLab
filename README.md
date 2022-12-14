@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/ReaperLab">
-    <img src="https://avatars.githubusercontent.com/u/101026822?v=4" alt="Logo" width="80" height="80" border-radius="50">
+    <img src="https://avatars.githubusercontent.com/u/101026822?v=4" alt="Logo" width="80" height="80" style="border-radius:50px;">
   </a>
   <h1>ReaperLab</h1>
   <br>
