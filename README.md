@@ -11,7 +11,7 @@
   </p>
   <br>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ReaperLab&theme=dark&border_radius=6&ring=DD2727&fire=DD2727&currStreakNum=DDDDDD&sideLabels=DD2727&currStreakLabel=DD2727" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ReaperLab&theme=dark&border_radius=6&fire=58A4FD&currStreakNum=DDDDDD&sideLabels=58A4FD&currStreakLabel=58A4FD&ring=58A4FD" />
   </a>
   <br>
   <h3 align="center">Languages and Tools:</h3>
