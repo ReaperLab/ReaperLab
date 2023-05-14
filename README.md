@@ -18,5 +18,8 @@
   <a href="https://discord.com/users/762794799756476426">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+  <a href="https://cash.app/$thereaperlab">
+    <img src="https://skillicons.dev/icons?i=cashapp" />
+  </a>
   <br>
 </div>
