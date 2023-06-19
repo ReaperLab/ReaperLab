@@ -5,7 +5,7 @@
     <img src="https://avatars.githubusercontent.com/u/101026822?v=4" alt="Logo" width="80" height="80" style="border-radius:50px;">
   </a>
   <h1>ReaperLab</h1>
-  <a href="https://cash.app/$thereaperlab">
+  <a href="https://cash.app/$reaperlab1157">
     Donate
   </a>
   <br>
